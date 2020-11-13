@@ -7,8 +7,6 @@ Avançando mais no PHP foi mostrado conceitos de: Arrays, funções, requires, r
 
 PHP: Programação Orientada a Objetos foi mostrado os conceitos da POO, métodos, comportamento, proteção e composição de objetos.
 
-PHP: Manipulando coleçes com Arrays: foi mostrado conceitos de criação de arrays, funções com arrays, remoção de elementos de um array, carregando classes automaticamente e arrays associativos.
-
 Status: Em andamento
 
 Autor: Gustavo Menezes
