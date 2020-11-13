@@ -1,11 +1,13 @@
 # Projeto-PHP
-Projeto referente aos cursos de introdução ao PHP, Avançando no PHP e Programação Orientada a Objetos
+Projeto referente aos cursos de introdução ao PHP, Avançando no PHP, Programação Orientada a Objetos, PHP: Manipulando coleções com Arrays
 
-Durante o curso de introdução foram mostrados conceitos de: Variáveis e tipos, texto, repetição, decisão e desafios para treinamento.
+Durante o curso de introdução ao PHP foi mostrado conceitos de: Variáveis e tipos, texto, repetição, decisão e desafios para treinamento.
 
-Avançando mais no PHP foram mostrados conceitos de: Arrays, funções, requires, referências e listas, e foi mostrado uma introdução do PHP na Web.
+Avançando mais no PHP foi mostrado conceitos de: Arrays, funções, requires, referências e listas, e foi mostrado uma introdução do PHP na Web.
 
-Programação Orientada a Objetos foram mostrados os conceitos da POO, métodos, comportamento, proteção e composição de objetos.
+PHP: Programação Orientada a Objetos foi mostrado os conceitos da POO, métodos, comportamento, proteção e composição de objetos.
+
+PHP: Manipulando coleçes com Arrays: foi mostrado conceitos de criação de arrays, funções com arrays, remoção de elementos de um array, carregando classes automaticamente e arrays associativos.
 
 Status: Em andamento
 
